@@ -20,8 +20,8 @@ working_directory: ~/repo
  	- checkout	
  	 	
  	- run:	
- 	name: verify cookbook style	
- 	command: |	
- 	echo 'test'	
+ 	    name: verify cookbook style	
+ 	    command: |	
+ 	      echo 'test'	
 
       
