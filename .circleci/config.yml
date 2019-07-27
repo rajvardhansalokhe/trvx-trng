@@ -18,8 +18,9 @@ jobs:
 
     steps:
       - checkout
-          - run:
-          name: veryfy cookbook style
-          command: |
-            echo 'test'
+      
+       - run:
+        name: veryfy cookbook style
+        command: |
+        echo 'test'
       
